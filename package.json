@@ -1,0 +1,15 @@
+{
+  "name": "mensajeMepsCloud",
+  "version": "1.0.0",
+  "description": "campaña de mensajes mep's cloud",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristian Vargas",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-inline-css": "~3.0.1"
+  }
+}

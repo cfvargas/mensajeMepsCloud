@@ -1,0 +1,184 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #e6e6e6;
+}
+
+
+#content {
+    width: 600px;
+    max-width: 600px;
+    overflow: hidden;
+    margin: auto;
+}
+
+
+#background {
+    box-sizing: border-box;
+    padding: 15px 30px;
+    background-image: url('background.png'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 278.206px;
+}
+
+
+#title {
+    color: #fff;
+    font-size: 2em;
+    text-align: center;
+}
+
+
+.btn {
+    width: 160px;
+    line-height: 40px;
+    margin-left: 190px;
+    background-color: #02a5ed;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+    color: #fff;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 1em;
+}
+
+
+#content-text {
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 15px 30px;
+    color: #303030;
+    padding-bottom: 25px;
+}
+#content-text a {
+    margin-top: 30px;
+}
+
+#description {
+    margin-top: 10px;
+}
+
+
+#description h3 {
+    margin-bottom: 15px;
+}
+
+
+#description hr {
+    height: 5px;
+    width: 160px;
+    border: none;
+    background-color: #02a5ed;
+    margin-bottom: 25px;
+}
+
+
+#description p {
+    margin-bottom: 30px;
+}
+
+
+#sms, #email {
+    min-width: 600px;
+    margin-left: -30px;
+    padding: 30px 30px;
+}
+
+
+#sms h3, #email h3 {
+    margin-bottom: 15px;
+}
+
+
+#sms ul, #email ul {
+    padding-left: 15px;
+}
+
+
+#sms ul li, #email ul li {
+    color: #02a5ed;
+}
+
+
+#sms ul li span, #email ul li span {
+    color: #303030;
+}
+
+
+#sms {
+    background-color: #d9f9ff;
+}
+
+
+#condiciones {
+    width: 100%;
+    text-align: center;
+    font-size: .8em;
+}
+
+
+footer {
+    width: 100%;
+    color: #303030;
+    background-color: #fff;
+    box-sizing: border-box;
+    padding-bottom: 15px;
+}
+
+
+footer hr {
+    width: 100%;
+    height: 4px;
+    background-color: #02a5ed;
+    border: none;
+    margin-bottom: 15px;
+}
+
+
+
+#footer__links, #address, #contact {
+    padding: 0 15px;
+}
+
+
+
+
+#footer__links {
+    margin-bottom: 5px;
+}
+
+
+#footer__links a {
+    text-decoration: none;
+}
+
+
+#footer__links .link {
+    color: #02a5ed;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+
+
+#address {
+    font-size: .9em;
+    margin-bottom: 5px;
+}
+
+
+#contact {
+    font-weight: bold;
+    font-size: .9em;
+}
